@@ -1,4 +1,5 @@
 Hang Liu hal064@ucsd.edu
+
 Graph ML for Chip Profiling. **Mentor: Lindsey Kostas**
 
 **What is the most interesting topic covered in your domain this quarter?**
